@@ -94,6 +94,14 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+html {
+   font-family: sans-serif;
+}
+
+body {
+   margin: 0px;
+}
+
 header {
     background-color: rgba(52,114,155,1);
     padding: 10px;
