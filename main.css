@@ -170,7 +170,16 @@ div {
 }
 
 .title h1{
-    background: black;
+    background: rgba(25, 46, 76, 0.41);
+    padding: 10px;
+    margin: 70px;
+    color: white;
+    display: inline-block;
+}
+
+.title a {
+    background: rgb(15, 86, 147);
+    padding: 20px;
     color: white;
 }
 
