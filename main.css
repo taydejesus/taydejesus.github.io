@@ -172,7 +172,7 @@ div {
 .title h1{
     background: rgba(25, 46, 76, 0.41);
     padding: 10px;
-    margin: 70px;
+    margin: 40px;
     color: white;
     display: inline-block;
 }
@@ -185,22 +185,22 @@ div {
 
 .exp {
     background-color: rgb(188, 220, 235);
-    padding: 70px;
+    padding: 40px;
 }
 
 .edu {
     background-color: rgb(69, 137, 204);
-    padding: 70px;
+    padding: 40px;
 }
 
 .about {
     background-color: rgb(111, 188, 239);
-    padding: 70px;
+    padding: 40px;
 }
 
 .contact {
     background-color: rgb(70, 149, 210);
-    padding: 70px;
+    padding: 40px;
 }
 .contact img {
     padding-right: 10px;
