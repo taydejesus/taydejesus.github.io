@@ -189,7 +189,7 @@ div {
 }
 
 .edu {
-    background-color: rgb(22, 71, 119);
+    background-color: rgb(69, 137, 204);
     padding: 70px;
 }
 
@@ -201,6 +201,9 @@ div {
 .contact {
     background-color: rgb(70, 149, 210);
     padding: 70px;
+}
+.contact img {
+    padding-right: 10px;
 }
 
 /* ==========================================================================
