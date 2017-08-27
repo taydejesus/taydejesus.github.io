@@ -103,7 +103,7 @@ body {
 }
 
 header {
-    background-color: rgba(52,114,155,1);
+    background-color: #0f5693;
     padding: .7em;
     color: white;
 }
@@ -130,6 +130,7 @@ header nav {
 
 a {
     text-decoration: none;
+    color: #0f5693;
 }
 
 nav a {
@@ -175,7 +176,7 @@ div {
 }
 
 .title a {
-    background: rgb(15, 86, 147);
+    background: #0f5693;
     padding: 1.5em;
     color: white;
 }
@@ -184,20 +185,24 @@ div {
 	padding: 3em;
 }
 
-.exp {
-    background-color: rgb(188, 220, 235);
-}
-
-.edu {
-    background-color: rgb(69, 137, 204);
-}
-
 .about {
-    background-color: rgb(111, 188, 239);
+    background-color: #67BAFF;
 }
 
 .contact {
-    background-color: rgb(70, 149, 210);
+    background-color: #42A9FF;
+}
+
+.exp {
+	background-color: #8ECCFF;
+}
+
+.projects {
+	background-color: #B9DFFF;
+}
+
+.edu {
+    background-color: #B9DFFF;
 }
 .contact img {
     padding-right: 10px;
