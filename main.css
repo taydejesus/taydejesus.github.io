@@ -12,7 +12,7 @@
 
 html {
     color: #222;
-    font-size: 1em;
+    font-size: 1rem;
     line-height: 1.4;
 }
 
@@ -104,7 +104,7 @@ body {
 
 header {
     background-color: rgba(52,114,155,1);
-    padding: 10px;
+    padding: .7em;
     color: white;
 }
 
@@ -116,9 +116,7 @@ header .logo {
 
 header nav {
     display: inline-block;
-    
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 0 4em;
     
 }
 
@@ -126,7 +124,7 @@ header nav {
     display: inline-block;
     margin: 0px;
     vertical-align: middle;
-    font-size: 2.4em;
+    font-size: 2.4rem;
     font-weight: normal;
 }
 
@@ -137,9 +135,8 @@ a {
 nav a {
     text-align: center;
     vertical-align: middle;
-    padding: 10px;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 1em;
+    margin: 0 2em;
     color: white;
 }
 
@@ -163,44 +160,44 @@ div {
 .title {
     background-image: url("climbBG.jpg");
     background-size: 100%;
-    padding-top: 120px;
-    padding-bottom: 270px;
+    padding-top: 8em;
+    padding-bottom: 15em;
     text-align: center;
     
 }
 
 .title h1{
     background: rgba(25, 46, 76, 0.41);
-    padding: 10px;
-    margin: 40px;
+    padding: 1em;
+    margin: 2em;
     color: white;
     display: inline-block;
 }
 
 .title a {
     background: rgb(15, 86, 147);
-    padding: 20px;
+    padding: 1.5em;
     color: white;
+}
+
+.resume-section {
+	padding: 3em;
 }
 
 .exp {
     background-color: rgb(188, 220, 235);
-    padding: 40px;
 }
 
 .edu {
     background-color: rgb(69, 137, 204);
-    padding: 40px;
 }
 
 .about {
     background-color: rgb(111, 188, 239);
-    padding: 40px;
 }
 
 .contact {
     background-color: rgb(70, 149, 210);
-    padding: 40px;
 }
 .contact img {
     padding-right: 10px;
